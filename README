@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5299
+
+A citation source for unite.vim
+
+Citation.vim Imports zotero databases (with better_bibtex citation keys if
+available) or exported bibtex files and inserts/runs/does whatever you want with
+them using Unite.vim.
+
+It also allows you to use your documents as file managers - open referenced pdfs
+and urls directly from your citations or from the citation list. Browse all
+citation details, notes and abstracts within vim.
